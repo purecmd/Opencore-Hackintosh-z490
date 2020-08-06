@@ -16,7 +16,7 @@ WhateverGreen 없이 Hackintosh 구축하기.
 * Kingston HyperX Fury DDR4 RGB 3200MHz 32GB (2x 16GB) Memory Kit
 * Sapphire RX580 Pulse 8GB
 * Samsung 970 EVO PLUS NVMe M.2 500GB
-* Asus Rog Strix Z490I
+* Asus Rog Strix Z490-I Gaming
   * Intel® UHD Graphics 630
   * Realtek® ALC1220
   * Intel® Ethernet Controller I225-V
