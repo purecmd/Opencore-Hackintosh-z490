@@ -9,6 +9,7 @@ WhateverGreen 없이 Hackintosh 구축하기.
 * Intel® Ethernet Controller I225-V
 * Intel® Wi-Fi 6 AX201
 * Intel® Bluetooth 5.1
+* BOOTCAMP with Microsoft Windows 10
 
 ## Hardware
 * Intel® Core™ i7-10700K Processor
